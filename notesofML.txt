@@ -1,0 +1,34 @@
+﻿Types of ML Technique:
+
+-- Supervised Machine Learning
+-- Unsupervised Machine Learning
+-- Reinforcemnet Machine Learning
+
+
+# Simple linear Regression
+  -- try to find the best fit line to predict the output for the new input
+  
+# Multiple Linear Regression
+
+  -- used to estimate the Realtionship between two or more independent variables and dependent variables 
+
+
+Performance matrix
+
+1. R square:it effects the ouput feature with corrrelation with the input feature
+
+2. adjusted R square:
+    to solve above introduce the adjuste R square
+
+
+#MSE{mean square error}
+
+
+
+# underfitting vs overfitting model
+
+ 
+if I have a dataset which contain 1000 features :
+   a.in that 700 features for training
+   b.in that 300 features for test
+
