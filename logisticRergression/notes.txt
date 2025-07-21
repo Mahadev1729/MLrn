@@ -1,0 +1,8 @@
+﻿## Logistic Regression: 
+   # Confusion matrix:{is matric contains the TP,TN,FP,FN accourding to actual value and predicted value}
+   # Accuracy:
+      acc=(TP+TN)/(TP+FP+FN+TN)
+      prec=(TP)/(TP+FP)
+      Recall=(TP)/(TP+FN)
+ -- One Vs Rest
+
